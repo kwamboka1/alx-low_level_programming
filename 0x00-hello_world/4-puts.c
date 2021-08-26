@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /* 
-
-*main function is the project entry point
-*Always return: 0
-
+*main - is the project entry point
+* 
+*return: always 0
 */
 
 int main(void)
