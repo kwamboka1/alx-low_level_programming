@@ -7,6 +7,5 @@
  */
 int main(void)
 {
-  printf("ALX c programming")
     return (0);
 }
