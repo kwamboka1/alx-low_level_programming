@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/* 
+/*
 *main - is the project entry point
-* 
+*
 *return: always 0
 */
 
