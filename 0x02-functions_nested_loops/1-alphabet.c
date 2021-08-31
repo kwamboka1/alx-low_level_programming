@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * main - Entry point
@@ -8,10 +8,10 @@
 
 void print_alphabet(void)
 {
-int lowerc;
+int lowera;
 
-for (lowerc = 'a'; lowerc <= 'z'; lowerc++)
-putchar(lowerc);
+for (lowera = 'a'; lowera <= 'z'; lowera++)
+putchar(lowera);
 putchar('\n');
 
 return (0);

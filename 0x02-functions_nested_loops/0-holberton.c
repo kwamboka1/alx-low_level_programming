@@ -9,13 +9,11 @@
 int main(void)
 
 {
-  char ch[10] = "Holberton";
-  int i;
-  for (i = 0; i<=10; i++){
-    _putchar(ch[i]);
-  _putchar('\n');
-  }
-  
+char ch[10] = "Holberton";
+int i;
+for (i = 0; i<=10; i++){
+_putchar(ch[i]);
+_putchar('\n');
+}  
 return (0);
-
 }
