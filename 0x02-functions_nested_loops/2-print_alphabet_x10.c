@@ -5,7 +5,7 @@
  *
  * Return: x10 a-z
  */
-void print_alphabet_x10(void)
+int main(void)
 {
 	int w, count;
 
@@ -19,5 +19,6 @@ void print_alphabet_x10(void)
 		}
 		count++;
 		_putchar('\n');
+		return (0);
 	}
 }
