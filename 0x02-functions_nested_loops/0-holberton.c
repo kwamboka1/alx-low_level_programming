@@ -1,6 +1,8 @@
 #include stdio.h
-int main()
+int main(void)
 {
-  putchar("Holberton");
+  putchar("Holberton,\n");
+
+  return (0);
 
 }  
