@@ -4,13 +4,31 @@
 *
 * Return: Always 0 (Succes)
 */
-int main(void)
+/*int main(void)
+*{
+*	char y;
+*	for (y = 'a'; y <= 'z'; y++)
+*
+*		_putchar(y);
+*
+*	_putchar('\n');
+*	return;
+}
+*/
+#include "main.h"
+
+/**
+ * print_alphabet - a function that prints the alphabet, in lowercase
+ *
+ * Return: Always 0 (Succes)
+ */
+void print_alphabet(void)
 {
-	char y;
-	for (y = 'a'; y <= 'z'; y++)
+	int n;
 
-		_putchar(y);
-
+	for (n = 'a'; n <= 'z'; n++)
+	{
+		_putchar(n);
+	}
 	_putchar('\n');
-	return;
 }
