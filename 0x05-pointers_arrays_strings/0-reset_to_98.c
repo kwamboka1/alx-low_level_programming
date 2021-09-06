@@ -10,5 +10,4 @@ void reset_to_98(int *z)
 {
 	*z = 98;
 
-	_putchar('\n');
 }
