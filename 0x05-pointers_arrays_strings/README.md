@@ -1,7 +1,7 @@
-## Pointers, arrays and strings
+# Pointers, arrays and strings
 Project done during Software Engineering studies at ALX School. It aims to learn about pointers and arrays in C language.
 
-# Technologies
+## Technologies
 C files are compiled using gcc using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 Tested on Ubuntu 20.04 LTS
 #Files
