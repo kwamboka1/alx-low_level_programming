@@ -10,6 +10,7 @@
  **/
 
 char *str_concat(char *s1, char *s2)
+
 {
 	char *strout;
 	unsigned int i, j, k, limit;
@@ -41,4 +42,5 @@ char *str_concat(char *s1, char *s2)
 		strout[k] = s2[j];
 
 	return (strout);
+
 }
