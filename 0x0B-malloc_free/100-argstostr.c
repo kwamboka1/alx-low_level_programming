@@ -7,8 +7,10 @@
  * @av: argument vector.
  *
  * Return: pointer of an array of char
- */
+ **/
+
 char *argstostr(int ac, char **av)
+
 {
 	char *aout;
 	int c, i, j, ia;
@@ -49,4 +51,5 @@ char *argstostr(int ac, char **av)
 	aout[ia] = '\0';
 
 	return (aout);
+
 }
