@@ -3,7 +3,7 @@ Project done during **Software Engineering studies** at **ALX School**. It aims 
 
 ## Technologies
 * C files are compiled using `gcc 4.8.4`
-* C files are written according to the C90 standard
+* C files are written according to the C89 standard
 * Tested on Ubuntu 20.04 LTS
 
 ## Files
