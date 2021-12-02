@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
@@ -24,4 +25,9 @@ unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 int main(void);
+int add(void);
+int sub(void);
+int division(void);
+int mul(void);
+int modulo(void);
 #endif
