@@ -4,7 +4,7 @@
  *add - adds the two numbers
  *Return: Always 0(Success)
  */
-int add(void)
+int add(int a, int b)
 {
 	int a;
 	int b;
@@ -17,7 +17,7 @@ int add(void)
  *Return: Always 0(Success)
  */
 
-int sub(void)
+int sub(int a, int b)
 {
 	int a;
 	int b;
@@ -30,7 +30,7 @@ int sub(void)
  *Return: Always 0(Success)
  */
 
-int mul(void)
+int mul(int a, int b)
 {
 	int a;
 	int b;
@@ -43,7 +43,7 @@ int mul(void)
  *Return: Always 0(Success)
  */
 
-int division(void)
+int division(int a, int b)
 {
 	int a;
 	int b;
@@ -56,7 +56,7 @@ int division(void)
  *Return: Always 0(Success)
  */
 
-int modulo(void)
+int modulo(int a, int b)
 {
 	int a;
 	int b;
